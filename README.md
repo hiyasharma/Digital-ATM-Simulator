@@ -81,14 +81,16 @@ The **Digital ATM Simulator** is a Java-based application that simulates an Auto
 
 
 7. **Mini Statement:**
+   - Provides a brief summary of the last few transactions.
    ![image](https://github.com/user-attachments/assets/b743c769-cb93-4884-ab41-bb5d739f9c67)
    
 
 9. **Change PIN:**
+    - Users can update their ATM PIN for enhanced security.
    ![image](https://github.com/user-attachments/assets/cc337e8d-218f-4eed-8848-edf647071b09)
 
 
-10. **Exit:**
+11. **Exit:**
    - The user logs out, and the session ends securely.
 
      
