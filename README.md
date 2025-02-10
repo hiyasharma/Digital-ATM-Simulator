@@ -95,6 +95,10 @@ The **Digital ATM Simulator** is a Java-based application that simulates an Auto
 11. **Exit:**
    - The user logs out, and the session ends securely.
 
+## Demo Video
+
+https://drive.google.com/file/d/1pdjpjSi3yzBB2FRHUZJ-vkHDWq-oRwC-/view?usp=sharinghttps://drive.google.com/file/d/1pdjpjSi3yzBB2FRHUZJ-vkHDWq-oRwC-/view?usp=sharing
+
      
 
 ## Usage
