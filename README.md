@@ -120,5 +120,5 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries or contributions, reach out at [your-email@example.com]
+For any queries or contributions, reach out at hiyasdrive@gmail.com
 
