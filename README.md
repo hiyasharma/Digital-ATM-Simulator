@@ -20,16 +20,16 @@ The **Digital ATM Simulator** is a Java-based application that simulates an Auto
 ## Installation and Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/digital-atm-simulator.git
-   cd digital-atm-simulator
+   git clone https://github.com/your-username/Digital-ATM-Simulator.git
+   cd Digital-ATM-Simulator
    ```
 2. **Set Up MySQL Database (Optional):**
    - Create a database and table for storing user details and transactions.
    - Update database credentials in the Java file if using persistence.
 3. **Compile and Run the Application:**
    ```sh
-   javac ATM.java
-   java ATM
+   javac Login.java
+   java Login
    ```
 
 ## Workflow
@@ -82,11 +82,13 @@ The **Digital ATM Simulator** is a Java-based application that simulates an Auto
 
 7. **Mini Statement:**
    - Provides a brief summary of the last few transactions.
+     
    ![image](https://github.com/user-attachments/assets/b743c769-cb93-4884-ab41-bb5d739f9c67)
    
 
 9. **Change PIN:**
     - Users can update their ATM PIN for enhanced security.
+      
    ![image](https://github.com/user-attachments/assets/cc337e8d-218f-4eed-8848-edf647071b09)
 
 
